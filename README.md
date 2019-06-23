@@ -8,4 +8,4 @@
 * always use lowercase letters
 
 #### starting a container
-winpty docker run -it <containerName> bash
+` winpty docker run -it <containerName> bash`
